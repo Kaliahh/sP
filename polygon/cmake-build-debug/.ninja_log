@@ -1,0 +1,4 @@
+# ninja log v5
+0	402	1644574042987378916	CMakeFiles/test_polygon.dir/polygon.cpp.o	7f532b881501251b
+402	466	1644574043047378362	test_polygon	48bba3152ccd1e99
+1	545	1644573607003741937	CMakeFiles/test_polygon.dir/test_polygon.cpp.o	828ee8364fad7e0c

@@ -1,0 +1,5 @@
+# ninja log v5
+1	1386	1645180727218322780	CMakeFiles/Session_5.dir/main.cpp.o	9ebd5e64454b69c1
+1386	1464	1645180727298324617	Session_5	746c3d37d6ef738d
+0	1954	1645180399446729708	CMakeFiles/Session_5.dir/NumberSeries.cpp.o	fe17cc90183ccdbe
+1	1894	1645180399386728303	CMakeFiles/Session_5.dir/NumberSeriesWrapper.cpp.o	b9d68a15672bc797

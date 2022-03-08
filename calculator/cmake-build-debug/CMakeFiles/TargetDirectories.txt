@@ -1,0 +1,5 @@
+/home/ane/Documents/GitHub/sP/calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ane/Documents/GitHub/sP/calculator/cmake-build-debug/CMakeFiles/doctest.dir
+/home/ane/Documents/GitHub/sP/calculator/cmake-build-debug/CMakeFiles/test_calculator.dir
+/home/ane/Documents/GitHub/sP/calculator/cmake-build-debug/CMakeFiles/test.dir
+/home/ane/Documents/GitHub/sP/calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
